@@ -1,0 +1,9 @@
+.reveal {
+	font-size: 24pt;
+	/*width: 800px;*/
+}
+
+.reveal li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
